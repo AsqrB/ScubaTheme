@@ -2,7 +2,7 @@
     "name": "scuba",
     "displayName": "Scuba",
     "description": "Dive into scuba theme's sea-inspired palette, enhancing focus and aesthetics in your editor.",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "publisher": "AsqrB",
     "repository": {
       "type": "git",
@@ -29,7 +29,7 @@
     "categories": [
       "Themes"
     ],
-    "icon": "assets/logo.jpg",
+    "icon": "assets/logo1.jpg",
     "galleryBanner": {
       "color": "191919",
       "theme": "dark"
