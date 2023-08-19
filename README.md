@@ -2,7 +2,7 @@
 
 # Scuba Theme for Visual Studio Code
 
-![Scuba Theme](./assets/logo.jpg)
+![Scuba Theme](./assets/logo1.jpg)
 
 ## Dive into the Colors of the Sea
 
