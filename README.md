@@ -1,6 +1,4 @@
-# Scuba-color README
-
-## Scuba Theme for Visual Studio Code
+# Scuba Theme for Visual Studio Code
 
 ![Scuba Theme](./assets/logo1.jpg)
 
