@@ -4,7 +4,7 @@
 
 ## Dive into the Colors of the Sea
 
-The Scuba theme brings the calming and vibrant colors of the sea to your code editor in Visual Studio Code. With shades reminiscent of ocean blues and tropical aquas, coding becomes a refreshing and delightful experience.
+The [Scuba Theme](https://marketplace.visualstudio.com/items?itemName=AsqrB.scuba) brings the calming and vibrant colors of the sea to your code editor in Visual Studio Code. With shades reminiscent of ocean blues and tropical aquas, coding becomes a refreshing and delightful experience.
 
 ## Support and Appreciation
 
